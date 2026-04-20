@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?exp=1776687915&uip=2a06%3A98c0%3A3600%3A%3A103&sign=3a41369cf02d90a43c0395b276db365af0d2b06b928aec09f981d4a86b650e56
+https://ayo.maling.pl/video/id/205.mpd?exp=1776687915&uip=2a06%3A98c0%3A3600%3A%3A103&sign=c6474124be0a4655ef78f3b166bdb9a3f9a1bf92ec252865df04ee9fc935f714
