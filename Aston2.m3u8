@@ -1,0 +1,18 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1216
+#EXT-X-TARGETDURATION:4
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1216.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=fd26f20f2ef9bac7f408fd624d5af6ff&x-time=1777541580
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1217.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=fa7609232b38515215a7d36408798f0e&x-time=1777541580
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1218.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=bea43b29ba6715f2c48ff6e79c5c99e9&x-time=1777541580
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1219.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=7e17b8578d6c1057ad60ea0225988c22&x-time=1777541580
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1220.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=57d442efa11d3bc25bb50b309ce60046&x-time=1777541580
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1221.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=188ea705f64b76c52903886051e52c8e&x-time=1777541580
+#EXTINF:4.000, no desc
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/1222.jpeg?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=9c48da531b820151fafe4ec3a4b41eee&x-time=1777541580
