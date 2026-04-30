@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:1777541066
+#EXT-X-DISCONTINUITY-SEQUENCE:1
+#EXTINF:8.342,
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/112612_hd-ss-2751257741-1777541066-20260430T093804.ts?volcDst=MTAuMTMuOC4xNDU&is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=c1a9bd240d14b060d239ed0d9546bbe5&x-time=1777541580
+#EXTINF:5.706,
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/112612_hd-ss-2751257741-1777541067-20260430T093813.ts?volcDst=MTAuMTMuOC4xNDU&is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=2209afe5a94b7c0149f368ff4052676d&x-time=1777541580
+#EXTINF:7.507,
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/112612_hd-ss-2751257741-1777541068-20260430T093818.ts?volcDst=MTAuMTMuOC4xNDU&is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=92f28321e6156933e65603a2794f031b&x-time=1777541580
+#EXTINF:8.342,
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/112612_hd-ss-2751257741-1777541069-20260430T093826.ts?volcDst=MTAuMTMuOC4xNDU&is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=997669d8e0696dd9e3d06addac67786b&x-time=1777541580
+#EXTINF:8.341,
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/112612_hd-ss-2751257741-1777541070-20260430T093834.ts?volcDst=MTAuMTMuOC4xNDU&is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=eebce83cfe35a386a58df9ad42134e15&x-time=1777541580
