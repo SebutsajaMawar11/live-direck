@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:470
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+https://live-prod-v1-biznet.streams.my.id/streams/indosiar/segment/seq_470.ts
+#EXTINF:10.000000,
+https://live-prod-v1-biznet.streams.my.id/streams/indosiar/segment/seq_471.ts
+#EXTINF:10.000000,
+https://live-prod-v1-biznet.streams.my.id/streams/indosiar/segment/seq_472.ts
+#EXTINF:10.000000,
+https://live-prod-v1-biznet.streams.my.id/streams/indosiar/segment/seq_473.ts
+#EXTINF:10.000000,
+https://live-prod-v1-biznet.streams.my.id/streams/indosiar/segment/seq_474.ts
+#EXTINF:10.000000,
+https://live-prod-v1-biznet.streams.my.id/streams/indosiar/segment/seq_475.ts
