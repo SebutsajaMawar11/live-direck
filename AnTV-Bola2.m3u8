@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3414
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:15
+#EXTINF:6.600000,
+http://iptv.kilas7.com:80/live/hls/kaukia/asdfrewq/7/ce27e762dd0769a44393c80ba07b3c74/7_3414.ts
+#EXTINF:9.240000,
+http://iptv.kilas7.com:80/live/hls/kaukia/asdfrewq/7/85f87910d13ce2bb0ef6c9cefc41d25b/7_3415.ts
+#EXTINF:10.000000,
+http://iptv.kilas7.com:80/live/hls/kaukia/asdfrewq/7/1d1e956d1f5b6757e6de08b5b3ca6486/7_3416.ts
+#EXTINF:9.920000,
+http://iptv.kilas7.com:80/live/hls/kaukia/asdfrewq/7/154ef78d8516114dc71a472eba8d95f4/7_3417.ts
+#EXTINF:14.320000,
+http://iptv.kilas7.com:80/live/hls/kaukia/asdfrewq/7/2b9a20143e58d7b07d08a5cc507eef69/7_3418.ts
+#EXTINF:12.360000,
+http://iptv.kilas7.com:80/live/hls/kaukia/asdfrewq/7/2f44789b605f24e9f801868d92c5da53/7_3419.ts
